@@ -1,0 +1,40 @@
+.navbar-container {
+  background-color: #111516;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-links-container {
+  display: flex;
+  column-gap: 20px;
+}
+
+.link-container a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.link-container a:hover {
+  color: #026b91;
+}
+
+.navbar-language-container {
+  color: #fff;
+  font-size: 18px;
+}
+
+.navbar-language-container label {
+  margin-right: 10px;
+}
+
+.navbar-language-container select {
+  font-family: "Rubik", sans-serif;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #111516;
+  border: 1px solid #fff;
+  color: #fff;
+}
+

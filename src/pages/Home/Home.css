@@ -1,0 +1,9 @@
+.home-title-container {
+  position : absolute;
+  top: 30%;
+}
+
+.titles {
+  background-color:rgba(20,25,25,0.8);
+  padding: 50px;
+}

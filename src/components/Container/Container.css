@@ -1,0 +1,8 @@
+.container {
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  height:100vh;
+}
+
